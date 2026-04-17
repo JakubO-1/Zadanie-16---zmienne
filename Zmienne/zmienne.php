@@ -2,14 +2,14 @@
 
 $a = 15;
 
-echo $a . "\n";
-echo -$a . "\n";
-echo ($a + 3) . "\n";
-echo ($a - 5) . "\n";
-echo ($a * 2) . "\n";
-echo ($a / 5) . "\n";
-echo ($a % 2) . "\n";
-echo ($a ** 3) . "\n";
+echo $a . "<br>";
+echo -$a . "<br>";
+echo ($a + 3) . "<br>";
+echo ($a - 5) . "<br>";
+echo ($a * 2) . "<br>";
+echo ($a / 5) . "<br>";
+echo ($a % 2) . "<br>";
+echo ($a ** 3) . "<br>";
 echo 'Wartość zmiennej $a wynosi: ' . $a . ' i już się nie zmieni.';
 
 ?>
